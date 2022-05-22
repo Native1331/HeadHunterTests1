@@ -7,7 +7,7 @@
 
 - <a href="#trophy-технологии-и-инструменты">Технологии и инструменты</a> 
 - <a href="#heavy_check_mark-реализованные-проверки">Реализованные проверки</a>
-- <a href="#clipboard-сборка-в-Jenkins">Сборка в Jenkins</a>
+- <a href="#clipboard_mark-сборка-в-Jenkins">Сборка в Jenkins</a>
 - <a href="#computer-запуск-из-терминала">Запуск из терминала</a>
 - <a href="#chart_with_downwards_trend-allure-отчет">Allure отчет</a>
 - <a href="#clipboard-интеграция-с-allure-testops">Интеграция с Allure TestOps</a>
@@ -40,10 +40,10 @@
 ## :clipboard: Сборка в Jenkins
 ### <a target="_blank" href="https://jenkins.autotests.cloud/job/AUTO-1024/">Сборка в Jenkins</a>
 <p align="center">
-<img title="Jenkins Dashboard" src="images/screenshots/jenkins-dashboard.png">
+<img title="Jenkins Dashboard" design="images/screenshots/jenkins-dashboard.png">
 </p>
 
-### Параметры сборки в Jenkins:
+###  :clipboard: Параметры сборки в Jenkins:
 Сборка в Jenkins
 
 - browser (браузер, по умолчанию chrome)
@@ -102,6 +102,6 @@ test
 ## :movie_camera: Видео примеры прохождения тестов
 > К каждому тесту в отчете прилагается видео. Одно из таких видео представлено ниже.
 <p align="center">
-  <img title="Selenoid Video" src="images/gif/test-run.gif">
+https://user-images.githubusercontent.com/83497921/169684555-ac19daf8-476b-46ed-9bd6-3420565a9019.mp4
 </p>
 
