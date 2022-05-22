@@ -10,10 +10,10 @@
 - <a href="#clipboard_mark-сборка-в-Jenkins">Сборка в Jenkins</a>
 - <a href="#computer-запуск-из-терминала">Запуск из терминала</a>
 - <a href="#chart_with_downwards_trend-allure-отчет">Allure отчет</a>
-- <a href="#clipboard-интеграция-с-allure-testops">Интеграция с Allure TestOps</a>
-- <a href="#clipboard-интеграция-с-jira">Интеграция с Jira</a>
-- <a href="#clipboard-отчет-в-telegram">Отчет в Telegram</a>
-- <a href="#clipboard-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>
+- <a href="#bar_chart-интеграция-с-allure-testops">Интеграция с Allure TestOps</a>
+- <a href="#chart_with_upwards_trend-интеграция-с-jira">Интеграция с Jira</a>
+- <a href="#iphone-отчет-в-telegram">Отчет в Telegram</a>
+- <a href="#movie_camera-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>
 
 ## :trophy:Технологии и инструменты
 <p align="center">
@@ -69,36 +69,33 @@ test
 
 ## :chart_with_downwards_trend: Allure отчет
 - ### Главный экран отчета
-<p align="center">
-<img title="Allure Overview Dashboard" src="images/screenshots/allure-main-page.png">
-</p>
+
+ ![This is an image](design/pictures/allureReport.jpeg)
+
 
 - ### Страница с проведенными тестами
-<p align="center">
-<img title="Allure Test Page" src="images/screenshots/allure-test-page.png">
-</p>
+
+![This is an image](design/pictures/allureReport1.jpeg)
 
 ## :bar_chart: Интеграция с Allure TestOps
 - ### Экран с результатами запуска тестов
-<p align="center">
-<img title="TestOps Launch Page" src="images/screenshots/test-ops-launch-page.png">
-</p>
+                                                                            
+![This is an image](design/pictures/allureTestOps.jpeg)
 
 - ### Страница с тестами в TestOps
-<p align="center">
-<img title="TestOps tests page" src="images/screenshots/test-ops-tests-page.png">
-</p>
 
+![This is an image](design/pictures/allureTestOps1.jpeg)
+                                                                            
 ## :chart_with_upwards_trend:	 Интеграция с Jira
 - ### Страница с задачей в Jira
-<p align="center">
-<img title="Jira issue" src="images/screenshots/jira-issue.png">
-</p>
+                                                                                
+ ![This is an image](design/pictures/jira.jpeg)
+
 
 ## 	:iphone: Отчет в Telegram
-<p align="center">
-<img title="Telegram notification message" src="images/screenshots/telegram-notification.png">
-</p>
+
+ ![This is an image](design/pictures/telegram.jpeg)
+
 
 ## :movie_camera: Видео примеры прохождения тестов
 > К каждому тесту в отчете прилагается видео. Одно из таких видео представлено ниже.
