@@ -3,7 +3,7 @@
 
 ## :clipboard:: Содержание:
 
-- <a href="#shinto_shrine-технологии-и-инструменты">Технологии и инструменты</a>
+- <a href="#shinto_shrine-технологии-и-инструменты">Технологии и инструменты</a> 
 - <a href="#shinto_shrine-реализованные-проверки">Реализованные проверки</a>
 - <a href="#shinto_shrine-сборка-в-Jenkins">Сборка в Jenkins</a>
 - <a href="#shinto_shrine-запуск-из-терминала">Запуск из терминала</a>
@@ -102,3 +102,4 @@ test
 <p align="center">
   <img title="Selenoid Video" src="images/gif/test-run.gif">
 </p>
+
