@@ -1,6 +1,6 @@
 # Проект по автоматизации тестирования для Head Hunter:handshake:
 ## <a target="_blank" href="https://spb.hh.ru/">Веб сайт Head Hunter</a>
-<img width="6%"  src="//pictures/Screenshot 2022-05-22 033833.jpg">
+![This is an image]("src/test/resources/pictures/Screenshot 2022-05-22 033833.jpg")
 
 
 ## :clipboard:: Содержание:
