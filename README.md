@@ -16,7 +16,7 @@
 ## :trophy:Технологии и инструменты
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="test/resources/icons/Intelij_IDEA.png">
-<img width="6%" title="Java" src="test/resources/icons/Java.png">
+<img width="6%" title="Java" src="/icons/Java.png">
 <img width="6%" title="Selenide" src="test/resources/icons/Selenide.png>
 <img width="6%" title="Selenoid" src="test/resources/icons/Selenoid.png">
 <img width="6%" title="Allure Report" src="test/resources/icons/Allure_Report.png">
