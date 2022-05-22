@@ -40,9 +40,9 @@
 
 ## :clipboard: Сборка в Jenkins
 ### <a target="_blank" href="https://jenkins.autotests.cloud/job/AUTO-1024/">Сборка в Jenkins</a>
-<p align="center">
-<img title="Jenkins Dashboard" design="images/screenshots/jenkins-dashboard.png">
-</p>
+
+![This is an image](design/pictures/jenkins.jpeg)
+
 
 ###  :clipboard: Параметры сборки в Jenkins:
 Сборка в Jenkins
