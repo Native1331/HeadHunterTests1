@@ -16,20 +16,13 @@
 - <a href="#movie_camera-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>
 
 ## :trophy:Технологии и инструменты
-<p align="center">
- ![This is an image] (/Native1331/HeadHunterTests1/blob/master/design/icons/Intelij_IDEA.png)</br>
-<img width="6%" title="IntelliJ IDEA" src="test/resources/icons/Intelij_IDEA.png">
-<img width="6%" title="Java" src="/icons/Java.png">
-<img width="6%" title="Selenide" src="test/resources/icons/Selenide.png>
-<img width="6%" title="Selenoid" src="test/resources/icons/Selenoid.png">
-<img width="6%" title="Allure Report" src="test/resources/icons/Allure_Report.png">
-<img width="6%" title="Gradle" src="test/resources/icons/Gradle.png">
-<img width="6%" title="JUnit5" src="test/resources/icons/JUnit5.png">
-<img width="6%" title="GitHub" src="images/logo/GitHub.svg">
-<img width="6%" title="Jenkins" src="/test/resources/icons/Jenkins.png">
-<img width="6%" title="Telegram" src="/test/resources/icons/Telegram.png">
- <img width="6%" title="Allure TestOps" src="/test/resources/icons/AllureTestOps.png">                                                                       
-</p>
+![Intelij_IDEA] (design/icons/Intelij_IDEA.png)
+![AllureTestOps] (design/icons/AllureTestOps.png)
+                                                                                                         
+  Java Gradle IntelliJ IDEA Selenide Selenoid JUnit5 Jenkins Allure Report Allure TestOps Telegram Jira
+
+![This is an image](/design/icons/Java.png)![This is an image](/design/icons/Gradle.png)![This is an image](/design/icons/Intelij_IDEA.png)![This is an image](/design/icons/Selenide.png)![This is an image](/design/icons/Selenoid.png)![This is an image](/design/icons/JUnit5.png)![This is an image](/design/icons/Jenkins.png)![This is an image](/design/icons/Allure_Report.png)![This is an image](/design/icons/AllureTestOps.png)![This is an image](/design/icons/Telegram.png)![This is an image](/design/icons/Jira.png)</br>
+
 
 ## 	:heavy_check_mark: Реализованные проверки
 Раздела "Сервисы для соискателей на главной странице
