@@ -70,6 +70,7 @@ test
 ## :chart_with_downwards_trend: Allure отчет
 - ### Главный экран отчета
 <p align="center">
+                 ![This is an image](design/pictures/allure.jpeg)
 <img title="Allure Overview Dashboard" src="images/screenshots/allure-main-page.png">
 </p>
 
@@ -92,12 +93,13 @@ test
 ## :chart_with_upwards_trend:	 Интеграция с Jira
 - ### Страница с задачей в Jira
 <p align="center">
+ ![This is an image](design/pictures/jira.jpeg)
 <img title="Jira issue" src="images/screenshots/jira-issue.png">
 </p>
 
 ## 	:iphone: Отчет в Telegram
 <p align="center">
-<img title="Telegram notification message" src="images/screenshots/telegram-notification.png">
+ ![This is an image](design/pictures/telegram.jpeg)
 </p>
 
 ## :movie_camera: Видео примеры прохождения тестов
