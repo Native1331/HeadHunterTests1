@@ -91,8 +91,11 @@ test
 
 
 ## :movie_camera: Видео примеры прохождения тестов
-### Пример видеозаписи прохождения теста
-![This is an image](/design/images/Video.gif)
+
+
+
+https://user-images.githubusercontent.com/83497921/169714032-3b6d17f6-c509-4f1c-8b71-8cbed0ab368c.mp4
+
 
 :heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>
 :blue_heart: <a target="_blank" href="https://t.me/qa_automation">t.me/qa_automation</a>
