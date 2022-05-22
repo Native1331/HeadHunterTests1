@@ -1,13 +1,15 @@
 # Проект по автоматизации тестирования для Head Hunter:handshake:
 ## <a target="_blank" href="https://spb.hh.ru/">Веб сайт Head Hunter</a>
+<img width="6%"  src="//pictures/Screenshot 2022-05-22 033833.jpg">
+
 
 ## :clipboard:: Содержание:
 
-- <a href="#clipboard-технологии-и-инструменты">Технологии и инструменты</a> 
-- <a href="#clipboard-реализованные-проверки">Реализованные проверки</a>
+- <a href="#trophy-технологии-и-инструменты">Технологии и инструменты</a> 
+- <a href="#heavy_check_mark-реализованные-проверки">Реализованные проверки</a>
 - <a href="#clipboard-сборка-в-Jenkins">Сборка в Jenkins</a>
-- <a href="#clipboard-запуск-из-терминала">Запуск из терминала</a>
-- <a href="#clipboard-allure-отчет">Allure отчет</a>
+- <a href="#computer-запуск-из-терминала">Запуск из терминала</a>
+- <a href="#chart_with_downwards_trend-allure-отчет">Allure отчет</a>
 - <a href="#clipboard-интеграция-с-allure-testops">Интеграция с Allure TestOps</a>
 - <a href="#clipboard-интеграция-с-jira">Интеграция с Jira</a>
 - <a href="#clipboard-отчет-в-telegram">Отчет в Telegram</a>
@@ -29,15 +31,14 @@
 </p>
 
 ## 	:heavy_check_mark: Реализованные проверки
-- Авторизация в маркете (тесты с PageObjects)
-- Открытие официальных источников в социальных сетях (Параметризированные тесты)
-- Открытие страницы с поиском по сайту
-- Поиск и выбор вакансии
-- Проверка пункта меню "Купить удобрения"
-- Проверка наличия на странице информации с биржи
+Раздела "Сервисы для соискателей на главной странице
+Выбора города (на примере Санкт-Петербурга)
+Поиск вакансий Тестировщик"
+Поиск вакансии "Тестировщик" в городе Санкт-Петербург
+Поиск и переход на страницу статьи "Что такое сильные стороны и как их определить?"
 
 ## :clipboard: Сборка в Jenkins
-### <a target="_blank" href="https://jenkins.autotests.cloud/job/011-katana_sword_party-13-autotests/">Сборка в Jenkins</a>
+### <a target="_blank" href="https://jenkins.autotests.cloud/job/AUTO-1024/">Сборка в Jenkins</a>
 <p align="center">
 <img title="Jenkins Dashboard" src="images/screenshots/jenkins-dashboard.png">
 </p>
