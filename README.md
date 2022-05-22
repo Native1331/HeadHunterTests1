@@ -79,15 +79,13 @@ test
 
 ## :bar_chart: Интеграция с Allure TestOps
 - ### Экран с результатами запуска тестов
-<p align="center">
-<img title="TestOps Launch Page" src="images/screenshots/test-ops-launch-page.png">
-</p>
+                                                                            
+![This is an image](design/pictures/allureTestOps.jpeg)
 
 - ### Страница с тестами в TestOps
-<p align="center">
-<img title="TestOps tests page" src="images/screenshots/test-ops-tests-page.png">
-</p>
 
+![This is an image](design/pictures/allureTestOps1.jpeg)
+                                                                            
 ## :chart_with_upwards_trend:	 Интеграция с Jira
 - ### Страница с задачей в Jira
                                                                                 
