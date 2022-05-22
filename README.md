@@ -91,7 +91,8 @@ test
 
 
 ## :movie_camera: Видео примеры прохождения тестов
-> К каждому тесту в отчете прилагается видео.Пример такого видео показан ниже:
-![проверка главной страницы](/design/video//video.mp4)
+### Пример видеозаписи прохождения теста
+![This is an image](/design/images/Video.gif)
 
-
+:heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>
+:blue_heart: <a target="_blank" href="https://t.me/qa_automation">t.me/qa_automation</a>
