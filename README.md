@@ -35,7 +35,7 @@
 - Проверка пункта меню "Купить удобрения"
 - Проверка наличия на странице информации с биржи
 
-## :shinto_shrine: Сборка в Jenkins
+## :clipboard: Сборка в Jenkins
 ### <a target="_blank" href="https://jenkins.autotests.cloud/job/011-katana_sword_party-13-autotests/">Сборка в Jenkins</a>
 <p align="center">
 <img title="Jenkins Dashboard" src="images/screenshots/jenkins-dashboard.png">
