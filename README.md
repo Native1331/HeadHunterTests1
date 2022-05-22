@@ -98,8 +98,7 @@ test
 
 
 ## :movie_camera: Видео примеры прохождения тестов
-> К каждому тесту в отчете прилагается видео. Одно из таких видео представлено ниже.
-<p align="center">
-https://user-images.githubusercontent.com/83497921/169684555-ac19daf8-476b-46ed-9bd6-3420565a9019.mp4
-</p>
+> К каждому тесту в отчете прилагается видео.Пример такого видео показан ниже:
+ [https://github.com/Native1331/HeadHunterTests1/blob/master/design/video/video.mp4]
+
 
