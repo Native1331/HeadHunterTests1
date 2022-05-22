@@ -23,8 +23,9 @@
 <img width="6%" title="Gradle" src="test/resources/icons/Gradle.png">
 <img width="6%" title="JUnit5" src="test/resources/icons/JUnit5.png">
 <img width="6%" title="GitHub" src="images/logo/GitHub.svg">
-<img width="6%" title="Jenkins" src="test/resources/icons/Jenkins.png">
-<img width="6%" title="Telegram" src="test/resources/icons/Telegram.png">
+<img width="6%" title="Jenkins" src="/test/resources/icons/Jenkins.png">
+<img width="6%" title="Telegram" src="/test/resources/icons/Telegram.png">
+ <img width="6%" title="Allure TestOps" src="/test/resources/icons/AllureTestOps.png">                                                                       
 </p>
 
 ## 	:heavy_check_mark: Реализованные проверки
