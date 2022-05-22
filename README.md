@@ -1,7 +1,7 @@
 # Проект по автоматизации тестирования для Head Hunter:handshake:
 ## <a target="_blank" href="https://spb.hh.ru/">Веб сайт Head Hunter</a>
-![This is an image](design/pictures/Screenshot 2022-05-22 033833.jpg)
-<img width="50%" title="Веб сайт Head Hunter" "design/pictures/creenshot 2022-05-22 033833.jpg">
+
+![This is an image](design/pictures/Screenshot 2022-05-22 033833.jpeg)
 
 ## :clipboard:: Содержание:
 
@@ -17,6 +17,7 @@
 
 ## :trophy:Технологии и инструменты
 <p align="center">
+ ![This is an image] (/Native1331/HeadHunterTests1/blob/master/design/icons/Intelij_IDEA.png)</br>
 <img width="6%" title="IntelliJ IDEA" src="test/resources/icons/Intelij_IDEA.png">
 <img width="6%" title="Java" src="/icons/Java.png">
 <img width="6%" title="Selenide" src="test/resources/icons/Selenide.png>
