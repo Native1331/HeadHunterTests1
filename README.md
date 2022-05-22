@@ -10,10 +10,10 @@
 - <a href="#clipboard_mark-сборка-в-Jenkins">Сборка в Jenkins</a>
 - <a href="#computer-запуск-из-терминала">Запуск из терминала</a>
 - <a href="#chart_with_downwards_trend-allure-отчет">Allure отчет</a>
-- <a href="#clipboard-интеграция-с-allure-testops">Интеграция с Allure TestOps</a>
-- <a href="#clipboard-интеграция-с-jira">Интеграция с Jira</a>
-- <a href="#clipboard-отчет-в-telegram">Отчет в Telegram</a>
-- <a href="#clipboard-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>
+- <a href="#bar_chart-интеграция-с-allure-testops">Интеграция с Allure TestOps</a>
+- <a href="#chart_with_upwards_trend-интеграция-с-jira">Интеграция с Jira</a>
+- <a href="#iphone-отчет-в-telegram">Отчет в Telegram</a>
+- <a href="#movie_camera-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>
 
 ## :trophy:Технологии и инструменты
 <p align="center">
@@ -75,7 +75,7 @@ test
 
 - ### Страница с проведенными тестами
 
-![This is an image](design/pictures/allureReport2.jpeg)
+![This is an image](design/pictures/allureReport1.jpeg)
 
 ## :bar_chart: Интеграция с Allure TestOps
 - ### Экран с результатами запуска тестов
