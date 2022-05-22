@@ -1,7 +1,7 @@
 # Проект по автоматизации тестирования для Head Hunter:handshake:
 ## <a target="_blank" href="https://spb.hh.ru/">Веб сайт Head Hunter</a>
 
-![This is an image](design/pictures/Screenshot 2022-05-22 033833.jpeg)
+![This is an image](design/pictures/hh.jpeg)
 
 ## :clipboard:: Содержание:
 
