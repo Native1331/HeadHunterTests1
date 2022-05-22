@@ -3,28 +3,28 @@
 
 ## :clipboard:: Содержание:
 
-- <a href="#shinto_shrine-технологии-и-инструменты">Технологии и инструменты</a> 
-- <a href="#shinto_shrine-реализованные-проверки">Реализованные проверки</a>
-- <a href="#shinto_shrine-сборка-в-Jenkins">Сборка в Jenkins</a>
-- <a href="#shinto_shrine-запуск-из-терминала">Запуск из терминала</a>
-- <a href="#shinto_shrine-allure-отчет">Allure отчет</a>
-- <a href="#shinto_shrine-интеграция-с-allure-testops">Интеграция с Allure TestOps</a>
-- <a href="#shinto_shrine-интеграция-с-jira">Интеграция с Jira</a>
-- <a href="#shinto_shrine-отчет-в-telegram">Отчет в Telegram</a>
-- <a href="#shinto_shrine-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>
+- <a href="#clipboard-технологии-и-инструменты">Технологии и инструменты</a> 
+- <a href="#clipboard-реализованные-проверки">Реализованные проверки</a>
+- <a href="#clipboard-сборка-в-Jenkins">Сборка в Jenkins</a>
+- <a href="#clipboard-запуск-из-терминала">Запуск из терминала</a>
+- <a href="#clipboard-allure-отчет">Allure отчет</a>
+- <a href="#clipboard-интеграция-с-allure-testops">Интеграция с Allure TestOps</a>
+- <a href="#clipboard-интеграция-с-jira">Интеграция с Jira</a>
+- <a href="#clipboard-отчет-в-telegram">Отчет в Telegram</a>
+- <a href="#clipboard-видео-примеры-прохождения-тестов">Видео примеры прохождения тестов</a>
 
 ## :trophy:Технологии и инструменты
 <p align="center">
-<img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
-<img width="6%" title="Java" src="images/logo/Java.svg">
-<img width="6%" title="Selenide" src="images/logo/Selenide.svg">
-<img width="6%" title="Selenoid" src="images/logo/Selenoid.svg">
-<img width="6%" title="Allure Report" src="images/logo/Allure_Report.svg">
-<img width="6%" title="Gradle" src="images/logo/Gradle.svg">
-<img width="6%" title="JUnit5" src="images/logo/JUnit5.svg">
+<img width="6%" title="IntelliJ IDEA" src="test/resources/icons/Intelij_IDEA.png">
+<img width="6%" title="Java" src="test/resources/icons/Java.png">
+<img width="6%" title="Selenide" src="test/resources/icons/Selenide.png>
+<img width="6%" title="Selenoid" src="test/resources/icons/Selenoid.png">
+<img width="6%" title="Allure Report" src="test/resources/icons/Allure_Report.png">
+<img width="6%" title="Gradle" src="test/resources/icons/Gradle.png">
+<img width="6%" title="JUnit5" src="test/resources/icons/JUnit5.png">
 <img width="6%" title="GitHub" src="images/logo/GitHub.svg">
-<img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
-<img width="6%" title="Telegram" src="images/logo/Telegram.svg">
+<img width="6%" title="Jenkins" src="test/resources/icons/Jenkins.png">
+<img width="6%" title="Telegram" src="test/resources/icons/Telegram.png">
 </p>
 
 ## 	:heavy_check_mark: Реализованные проверки
